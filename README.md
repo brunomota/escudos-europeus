@@ -23,4 +23,4 @@ Drop Down com alguns times europeus.
 * Valencia
 
 
-Dicas da sintase do arquivo pode ser encontrado no [markdown](http://en.wikipedia.org/wiki/Markdown).
+Dicas da sintaxe do arquivo pode ser encontrado no [markdown](http://en.wikipedia.org/wiki/Markdown).
